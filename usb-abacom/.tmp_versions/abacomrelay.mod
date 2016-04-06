@@ -1,2 +1,2 @@
-/home/dainius/tmp/kernel/usb-abacom/abacomrelay.ko
-/home/dainius/tmp/kernel/usb-abacom/abacomrelay.o
+/home/dainius/git/usb/usb-abacom/abacomrelay.ko
+/home/dainius/git/usb/usb-abacom/abacomrelay.o
