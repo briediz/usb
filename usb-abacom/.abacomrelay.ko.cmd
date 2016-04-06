@@ -1,0 +1,1 @@
+cmd_/home/dainius/tmp/kernel/usb-abacom/abacomrelay.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-46-generic/scripts/module-common.lds --build-id  -o /home/dainius/tmp/kernel/usb-abacom/abacomrelay.ko /home/dainius/tmp/kernel/usb-abacom/abacomrelay.o /home/dainius/tmp/kernel/usb-abacom/abacomrelay.mod.o
